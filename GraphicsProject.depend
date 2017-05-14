@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1494673022 source:c:\users\david\desktop\1etem\lujzika\amõba\main.cpp
+	<graphics.hpp>
+	"widgets.hpp"
+	"jatekmester.hpp"
+
+1330557110 c:\users\david\desktop\1etem\lujzika\amõba\include\graphics.hpp
+	<string>
+
+1494674960 source:c:\users\david\desktop\1etem\lujzika\amõba\jatekmester.cpp
+	<iostream>
+	<graphics.hpp>
+	"jatekmester.hpp"
+	"widgets.hpp"
+	<vector>
+
+1494676980 c:\users\david\desktop\1etem\lujzika\amõba\jatekmester.hpp
+	<vector>
+	"widgets.hpp"
+
+1494674195 c:\users\david\desktop\1etem\lujzika\amõba\widgets.hpp
+	<vector>
+
+1494676530 source:c:\users\david\desktop\1etem\lujzika\amõba\widgets.cpp
+	<graphics.hpp>
+	"widgetS.hpp"
+	"jatekmester.hpp"
+	<vector>
+	<sstream>
+	<cmath>
+
+1494772875 source:c:\users\lenovo\documents\itk\programozás\000_beadandó03\amõba\jatekmester.cpp
+	<iostream>
+	<graphics.hpp>
+	"jatekmester.hpp"
+	"widgets.hpp"
+	<vector>
+
+1330557110 c:\users\lenovo\documents\itk\programozás\000_beadandó03\amõba\include\graphics.hpp
+	<string>
+
+1494772657 c:\users\lenovo\documents\itk\programozás\000_beadandó03\amõba\jatekmester.hpp
+	<vector>
+	"widgets.hpp"
+
+1494674195 c:\users\lenovo\documents\itk\programozás\000_beadandó03\amõba\widgets.hpp
+	<vector>
+
+1494693116 source:c:\users\lenovo\documents\itk\programozás\000_beadandó03\amõba\main.cpp
+	<graphics.hpp>
+	"widgets.hpp"
+	"jatekmester.hpp"
+
+1494768436 source:c:\users\lenovo\documents\itk\programozás\000_beadandó03\amõba\widgets.cpp
+	<graphics.hpp>
+	"widgetS.hpp"
+	"jatekmester.hpp"
+	<vector>
+	<sstream>
+	<cmath>
+
